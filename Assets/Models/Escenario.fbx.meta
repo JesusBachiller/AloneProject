@@ -1,0 +1,735 @@
+fileFormatVersion: 2
+guid: 2b14dc912b96b8e45badfbb57338b5bc
+timeCreated: 1521388257
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Acero
+    100002: Arbol
+    100004: Caja
+    100006: Caja Inf
+    100008: Caja Sup
+    100010: Carbon
+    100012: Cuerda
+    100014: Cuerda.001
+    100016: Cuerda.002
+    100018: Cuerda.003
+    100020: Cuerda.004
+    100022: Cuerda.005
+    100024: Cuerda.006
+    100026: Cuerda.007
+    100028: Cuerda.008
+    100030: Cuerda.009
+    100032: Cuerda.010
+    100034: Cuerda.011
+    100036: Cuerda.012
+    100038: Cuerda.013
+    100040: Cuerda.014
+    100042: Cuerda.015
+    100044: Cuerda.016
+    100046: Cuerda.017
+    100048: Cuerda.018
+    100050: Cuerda.019
+    100052: Cuerda.020
+    100054: Cuerda.021
+    100056: Cuerda.022
+    100058: Cuerda.023
+    100060: Cuerda.024
+    100062: Cuerda.025
+    100064: Cuerda.026
+    100066: Cuerda.027
+    100068: Cuerda.037
+    100070: Cuerda.038
+    100072: Cuerda.039
+    100074: Cuerda.040
+    100076: Cuerda.041
+    100078: Cuerda.042
+    100080: Cuerda.043
+    100082: Cuerda.047
+    100084: Cuerda.048
+    100086: Cuerda.049
+    100088: Cuerda.050
+    100090: CurvaCuerda
+    100092: //RootNode
+    100094: Hacha Hierro
+    100096: Hacha Piedra
+    100098: Hierbas
+    100100: Hierro
+    100102: Horno Hierro
+    100104: Horno Piedra
+    100106: Mesa curva.000
+    100108: Mesa curva.001
+    100110: Mesa curva.002
+    100112: Mesa curva.003
+    100114: Mesa curva.004
+    100116: Mesa curva.005
+    100118: Mesa curva.006
+    100120: Mesa curva.007
+    100122: Mesa curva.008
+    100124: Mesa curva.009
+    100126: Mesa curva.010
+    100128: Mesa curva.011
+    100130: Mesa curva.012
+    100132: Mesa curva.013
+    100134: Mesa curva.014
+    100136: Mesa curva.015
+    100138: Mesa curva.016
+    100140: Mesa curva.017
+    100142: Mesa curva.018
+    100144: Mesa curva.019
+    100146: Mesa curva.020
+    100148: Mesa curva.021
+    100150: Mesa curva.022
+    100152: Mesa curva.023
+    100154: Mesa curva.024
+    100156: Mesa curva.025
+    100158: Mesa curva.026
+    100160: Mesa curva.036
+    100162: Mesa curva.037
+    100164: Mesa curva.038
+    100166: Mesa curva.039
+    100168: Mesa curva.040
+    100170: Mesa curva.041
+    100172: Mesa curva.042
+    100174: Mesa curva.046
+    100176: Mesa curva.047
+    100178: Mesa curva.048
+    100180: Mesa curva.049
+    100182: Mesa Madera
+    100184: Mesa Metal
+    100186: Mina Carbon
+    100188: Mina Hierro
+    100190: Palo Madera
+    100192: Palo Madera.001
+    100194: Palo Madera.002
+    100196: Palo Madera.003
+    100198: Palo Madera.004
+    100200: Palo Madera.005
+    100202: Palo Madera.006
+    100204: Palo Madera.007
+    100206: Palo Madera.008
+    100208: Pico
+    100210: Pico Hierro
+    100212: Pico Piedra
+    100214: Pico.001
+    100216: Pico.004
+    100218: Pico.005
+    100220: Piedra1
+    100222: Piedra2
+    100224: Plancha Hierro
+    100226: Plancha Madera
+    100228: Roca
+    100230: Semillas
+    100232: Semillas cocinada
+    100234: Suelo
+    100236: Sun
+    100238: SUp
+    100240: SUp.001
+    100242: Tronco
+    100244: Troncos
+    100246: Yunque
+    100248: Yunquecuerda
+    100250: Yunquecuerda.001
+    100252: Yunquecuerda.002
+    100254: Yunquecuerda.003
+    100256: Yunquecurva
+    100258: Yunquecurva.001
+    100260: Yunquecurva.002
+    100262: Yunquecurva.003
+    400000: Acero
+    400002: Arbol
+    400004: Caja
+    400006: Caja Inf
+    400008: Caja Sup
+    400010: Carbon
+    400012: Cuerda
+    400014: Cuerda.001
+    400016: Cuerda.002
+    400018: Cuerda.003
+    400020: Cuerda.004
+    400022: Cuerda.005
+    400024: Cuerda.006
+    400026: Cuerda.007
+    400028: Cuerda.008
+    400030: Cuerda.009
+    400032: Cuerda.010
+    400034: Cuerda.011
+    400036: Cuerda.012
+    400038: Cuerda.013
+    400040: Cuerda.014
+    400042: Cuerda.015
+    400044: Cuerda.016
+    400046: Cuerda.017
+    400048: Cuerda.018
+    400050: Cuerda.019
+    400052: Cuerda.020
+    400054: Cuerda.021
+    400056: Cuerda.022
+    400058: Cuerda.023
+    400060: Cuerda.024
+    400062: Cuerda.025
+    400064: Cuerda.026
+    400066: Cuerda.027
+    400068: Cuerda.037
+    400070: Cuerda.038
+    400072: Cuerda.039
+    400074: Cuerda.040
+    400076: Cuerda.041
+    400078: Cuerda.042
+    400080: Cuerda.043
+    400082: Cuerda.047
+    400084: Cuerda.048
+    400086: Cuerda.049
+    400088: Cuerda.050
+    400090: CurvaCuerda
+    400092: //RootNode
+    400094: Hacha Hierro
+    400096: Hacha Piedra
+    400098: Hierbas
+    400100: Hierro
+    400102: Horno Hierro
+    400104: Horno Piedra
+    400106: Mesa curva.000
+    400108: Mesa curva.001
+    400110: Mesa curva.002
+    400112: Mesa curva.003
+    400114: Mesa curva.004
+    400116: Mesa curva.005
+    400118: Mesa curva.006
+    400120: Mesa curva.007
+    400122: Mesa curva.008
+    400124: Mesa curva.009
+    400126: Mesa curva.010
+    400128: Mesa curva.011
+    400130: Mesa curva.012
+    400132: Mesa curva.013
+    400134: Mesa curva.014
+    400136: Mesa curva.015
+    400138: Mesa curva.016
+    400140: Mesa curva.017
+    400142: Mesa curva.018
+    400144: Mesa curva.019
+    400146: Mesa curva.020
+    400148: Mesa curva.021
+    400150: Mesa curva.022
+    400152: Mesa curva.023
+    400154: Mesa curva.024
+    400156: Mesa curva.025
+    400158: Mesa curva.026
+    400160: Mesa curva.036
+    400162: Mesa curva.037
+    400164: Mesa curva.038
+    400166: Mesa curva.039
+    400168: Mesa curva.040
+    400170: Mesa curva.041
+    400172: Mesa curva.042
+    400174: Mesa curva.046
+    400176: Mesa curva.047
+    400178: Mesa curva.048
+    400180: Mesa curva.049
+    400182: Mesa Madera
+    400184: Mesa Metal
+    400186: Mina Carbon
+    400188: Mina Hierro
+    400190: Palo Madera
+    400192: Palo Madera.001
+    400194: Palo Madera.002
+    400196: Palo Madera.003
+    400198: Palo Madera.004
+    400200: Palo Madera.005
+    400202: Palo Madera.006
+    400204: Palo Madera.007
+    400206: Palo Madera.008
+    400208: Pico
+    400210: Pico Hierro
+    400212: Pico Piedra
+    400214: Pico.001
+    400216: Pico.004
+    400218: Pico.005
+    400220: Piedra1
+    400222: Piedra2
+    400224: Plancha Hierro
+    400226: Plancha Madera
+    400228: Roca
+    400230: Semillas
+    400232: Semillas cocinada
+    400234: Suelo
+    400236: Sun
+    400238: SUp
+    400240: SUp.001
+    400242: Tronco
+    400244: Troncos
+    400246: Yunque
+    400248: Yunquecuerda
+    400250: Yunquecuerda.001
+    400252: Yunquecuerda.002
+    400254: Yunquecuerda.003
+    400256: Yunquecurva
+    400258: Yunquecurva.001
+    400260: Yunquecurva.002
+    400262: Yunquecurva.003
+    2100000: Acero
+    2100002: Madera
+    2100004: Cuerda
+    2100006: Hierro
+    2100008: Hierba
+    2100010: NegroCarbon
+    2100012: GrisRoca
+    2100014: Semilla
+    2100016: Tronco
+    2100018: VerdeHoja
+    2100020: Material
+    2300000: Acero
+    2300002: Arbol
+    2300004: Caja
+    2300006: Caja Inf
+    2300008: Caja Sup
+    2300010: Carbon
+    2300012: Cuerda
+    2300014: Cuerda.001
+    2300016: Cuerda.002
+    2300018: Cuerda.003
+    2300020: Cuerda.004
+    2300022: Cuerda.005
+    2300024: Cuerda.006
+    2300026: Cuerda.007
+    2300028: Cuerda.008
+    2300030: Cuerda.009
+    2300032: Cuerda.010
+    2300034: Cuerda.011
+    2300036: Cuerda.012
+    2300038: Cuerda.013
+    2300040: Cuerda.014
+    2300042: Cuerda.015
+    2300044: Cuerda.016
+    2300046: Cuerda.017
+    2300048: Cuerda.018
+    2300050: Cuerda.019
+    2300052: Cuerda.020
+    2300054: Cuerda.021
+    2300056: Cuerda.022
+    2300058: Cuerda.023
+    2300060: Cuerda.024
+    2300062: Cuerda.025
+    2300064: Cuerda.026
+    2300066: Cuerda.027
+    2300068: Cuerda.037
+    2300070: Cuerda.038
+    2300072: Cuerda.039
+    2300074: Cuerda.040
+    2300076: Cuerda.041
+    2300078: Cuerda.042
+    2300080: Cuerda.043
+    2300082: Cuerda.047
+    2300084: Cuerda.048
+    2300086: Cuerda.049
+    2300088: Cuerda.050
+    2300090: CurvaCuerda
+    2300092: Hierbas
+    2300094: Hierro
+    2300096: Horno Hierro
+    2300098: Horno Piedra
+    2300100: Mesa curva.000
+    2300102: Mesa curva.001
+    2300104: Mesa curva.002
+    2300106: Mesa curva.003
+    2300108: Mesa curva.004
+    2300110: Mesa curva.005
+    2300112: Mesa curva.006
+    2300114: Mesa curva.007
+    2300116: Mesa curva.008
+    2300118: Mesa curva.009
+    2300120: Mesa curva.010
+    2300122: Mesa curva.011
+    2300124: Mesa curva.012
+    2300126: Mesa curva.013
+    2300128: Mesa curva.014
+    2300130: Mesa curva.015
+    2300132: Mesa curva.016
+    2300134: Mesa curva.017
+    2300136: Mesa curva.018
+    2300138: Mesa curva.019
+    2300140: Mesa curva.020
+    2300142: Mesa curva.021
+    2300144: Mesa curva.022
+    2300146: Mesa curva.023
+    2300148: Mesa curva.024
+    2300150: Mesa curva.025
+    2300152: Mesa curva.026
+    2300154: Mesa curva.036
+    2300156: Mesa curva.037
+    2300158: Mesa curva.038
+    2300160: Mesa curva.039
+    2300162: Mesa curva.040
+    2300164: Mesa curva.041
+    2300166: Mesa curva.042
+    2300168: Mesa curva.046
+    2300170: Mesa curva.047
+    2300172: Mesa curva.048
+    2300174: Mesa curva.049
+    2300176: Mina Carbon
+    2300178: Mina Hierro
+    2300180: Palo Madera
+    2300182: Palo Madera.001
+    2300184: Palo Madera.002
+    2300186: Palo Madera.003
+    2300188: Palo Madera.004
+    2300190: Palo Madera.005
+    2300192: Palo Madera.006
+    2300194: Palo Madera.007
+    2300196: Palo Madera.008
+    2300198: Pico
+    2300200: Pico.001
+    2300202: Pico.004
+    2300204: Pico.005
+    2300206: Piedra1
+    2300208: Piedra2
+    2300210: Plancha Hierro
+    2300212: Plancha Madera
+    2300214: Roca
+    2300216: Semillas
+    2300218: Semillas cocinada
+    2300220: Suelo
+    2300222: SUp
+    2300224: SUp.001
+    2300226: Tronco
+    2300228: Troncos
+    2300230: Yunque
+    2300232: Yunquecuerda
+    2300234: Yunquecuerda.001
+    2300236: Yunquecuerda.002
+    2300238: Yunquecuerda.003
+    2300240: Yunquecurva
+    2300242: Yunquecurva.001
+    2300244: Yunquecurva.002
+    2300246: Yunquecurva.003
+    3300000: Acero
+    3300002: Arbol
+    3300004: Caja
+    3300006: Caja Inf
+    3300008: Caja Sup
+    3300010: Carbon
+    3300012: Cuerda
+    3300014: Cuerda.001
+    3300016: Cuerda.002
+    3300018: Cuerda.003
+    3300020: Cuerda.004
+    3300022: Cuerda.005
+    3300024: Cuerda.006
+    3300026: Cuerda.007
+    3300028: Cuerda.008
+    3300030: Cuerda.009
+    3300032: Cuerda.010
+    3300034: Cuerda.011
+    3300036: Cuerda.012
+    3300038: Cuerda.013
+    3300040: Cuerda.014
+    3300042: Cuerda.015
+    3300044: Cuerda.016
+    3300046: Cuerda.017
+    3300048: Cuerda.018
+    3300050: Cuerda.019
+    3300052: Cuerda.020
+    3300054: Cuerda.021
+    3300056: Cuerda.022
+    3300058: Cuerda.023
+    3300060: Cuerda.024
+    3300062: Cuerda.025
+    3300064: Cuerda.026
+    3300066: Cuerda.027
+    3300068: Cuerda.037
+    3300070: Cuerda.038
+    3300072: Cuerda.039
+    3300074: Cuerda.040
+    3300076: Cuerda.041
+    3300078: Cuerda.042
+    3300080: Cuerda.043
+    3300082: Cuerda.047
+    3300084: Cuerda.048
+    3300086: Cuerda.049
+    3300088: Cuerda.050
+    3300090: CurvaCuerda
+    3300092: Hierbas
+    3300094: Hierro
+    3300096: Horno Hierro
+    3300098: Horno Piedra
+    3300100: Mesa curva.000
+    3300102: Mesa curva.001
+    3300104: Mesa curva.002
+    3300106: Mesa curva.003
+    3300108: Mesa curva.004
+    3300110: Mesa curva.005
+    3300112: Mesa curva.006
+    3300114: Mesa curva.007
+    3300116: Mesa curva.008
+    3300118: Mesa curva.009
+    3300120: Mesa curva.010
+    3300122: Mesa curva.011
+    3300124: Mesa curva.012
+    3300126: Mesa curva.013
+    3300128: Mesa curva.014
+    3300130: Mesa curva.015
+    3300132: Mesa curva.016
+    3300134: Mesa curva.017
+    3300136: Mesa curva.018
+    3300138: Mesa curva.019
+    3300140: Mesa curva.020
+    3300142: Mesa curva.021
+    3300144: Mesa curva.022
+    3300146: Mesa curva.023
+    3300148: Mesa curva.024
+    3300150: Mesa curva.025
+    3300152: Mesa curva.026
+    3300154: Mesa curva.036
+    3300156: Mesa curva.037
+    3300158: Mesa curva.038
+    3300160: Mesa curva.039
+    3300162: Mesa curva.040
+    3300164: Mesa curva.041
+    3300166: Mesa curva.042
+    3300168: Mesa curva.046
+    3300170: Mesa curva.047
+    3300172: Mesa curva.048
+    3300174: Mesa curva.049
+    3300176: Mina Carbon
+    3300178: Mina Hierro
+    3300180: Palo Madera
+    3300182: Palo Madera.001
+    3300184: Palo Madera.002
+    3300186: Palo Madera.003
+    3300188: Palo Madera.004
+    3300190: Palo Madera.005
+    3300192: Palo Madera.006
+    3300194: Palo Madera.007
+    3300196: Palo Madera.008
+    3300198: Pico
+    3300200: Pico.001
+    3300202: Pico.004
+    3300204: Pico.005
+    3300206: Piedra1
+    3300208: Piedra2
+    3300210: Plancha Hierro
+    3300212: Plancha Madera
+    3300214: Roca
+    3300216: Semillas
+    3300218: Semillas cocinada
+    3300220: Suelo
+    3300222: SUp
+    3300224: SUp.001
+    3300226: Tronco
+    3300228: Troncos
+    3300230: Yunque
+    3300232: Yunquecuerda
+    3300234: Yunquecuerda.001
+    3300236: Yunquecuerda.002
+    3300238: Yunquecuerda.003
+    3300240: Yunquecurva
+    3300242: Yunquecurva.001
+    3300244: Yunquecurva.002
+    3300246: Yunquecurva.003
+    4300000: Yunque
+    4300002: Yunquecuerda.003
+    4300004: Yunquecurva.002
+    4300006: Yunquecuerda.002
+    4300008: Yunquecurva.003
+    4300010: Yunquecuerda.001
+    4300012: Yunquecurva.001
+    4300014: Yunquecuerda
+    4300016: Yunquecurva
+    4300018: Caja
+    4300020: Caja Sup
+    4300022: Caja Inf
+    4300024: Hierbas
+    4300026: Horno Hierro
+    4300028: SUp.001
+    4300030: Palo Madera.004
+    4300032: Palo Madera.003
+    4300034: Palo Madera.002
+    4300036: Palo Madera.001
+    4300038: Mesa curva.026
+    4300040: Cuerda.027
+    4300042: Mesa curva.025
+    4300044: Cuerda.026
+    4300046: Mesa curva.024
+    4300048: Cuerda.025
+    4300050: Mesa curva.023
+    4300052: Cuerda.024
+    4300054: Mesa curva.022
+    4300056: Cuerda.023
+    4300058: Mesa curva.021
+    4300060: Cuerda.022
+    4300062: Mesa curva.020
+    4300064: Cuerda.021
+    4300066: Mesa curva.019
+    4300068: Cuerda.020
+    4300070: Semillas cocinada
+    4300072: Semillas
+    4300074: Pico.001
+    4300076: Mesa curva.018
+    4300078: Cuerda.019
+    4300080: Mesa curva.017
+    4300082: Cuerda.018
+    4300084: Mesa curva.016
+    4300086: Cuerda.017
+    4300088: Mesa curva.015
+    4300090: Cuerda.016
+    4300092: Pico.005
+    4300094: Mesa curva.049
+    4300096: Cuerda.050
+    4300098: Mesa curva.048
+    4300100: Cuerda.049
+    4300102: Mesa curva.047
+    4300104: Cuerda.048
+    4300106: Mesa curva.046
+    4300108: Cuerda.047
+    4300110: Pico.004
+    4300112: Mesa curva.042
+    4300114: Cuerda.043
+    4300116: Mesa curva.041
+    4300118: Cuerda.042
+    4300120: Mesa curva.040
+    4300122: Cuerda.041
+    4300124: Mesa curva.039
+    4300126: Cuerda.040
+    4300128: Mesa curva.038
+    4300130: Cuerda.039
+    4300132: Mesa curva.037
+    4300134: Cuerda.038
+    4300136: Mesa curva.036
+    4300138: Cuerda.037
+    4300140: Acero
+    4300142: Pico
+    4300144: Mesa curva.014
+    4300146: Cuerda.015
+    4300148: Mesa curva.013
+    4300150: Cuerda.014
+    4300152: Mesa curva.012
+    4300154: Cuerda.013
+    4300156: Mesa curva.011
+    4300158: Cuerda.012
+    4300160: Mesa curva.010
+    4300162: Cuerda.011
+    4300164: Mesa curva.009
+    4300166: Cuerda.010
+    4300168: Mesa curva.008
+    4300170: Cuerda.009
+    4300172: Horno Piedra
+    4300174: Piedra2
+    4300176: Piedra1
+    4300178: Mesa curva.007
+    4300180: Cuerda.008
+    4300182: Mesa curva.006
+    4300184: Cuerda.007
+    4300186: Mesa curva.005
+    4300188: Cuerda.006
+    4300190: Mesa curva.004
+    4300192: Cuerda.005
+    4300194: Mesa curva.003
+    4300196: Cuerda.004
+    4300198: Mesa curva.000
+    4300200: Cuerda.003
+    4300202: Mesa curva.002
+    4300204: Mesa curva.001
+    4300206: Cuerda.002
+    4300208: Cuerda.001
+    4300210: Palo Madera.008
+    4300212: Palo Madera.007
+    4300214: Palo Madera.006
+    4300216: Palo Madera.005
+    4300218: SUp
+    4300220: Cuerda
+    4300222: CurvaCuerda
+    4300224: Plancha Hierro
+    4300226: Mina Carbon
+    4300228: Carbon
+    4300230: Mina Hierro
+    4300232: Hierro
+    4300234: Roca
+    4300236: Arbol
+    4300238: Palo Madera
+    4300240: Tronco
+    4300242: Plancha Madera
+    4300244: Troncos
+    4300246: Suelo
+    10800000: Sun
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

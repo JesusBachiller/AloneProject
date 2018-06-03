@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+
+<RecipeCollection>
+  <Recipes>
+    <Recipe id="0" name="CookedSeed" number="1" isStructure="0" openingMode="0">
+      <Resource id="1" name="Seed" number="5"/>
+      <Resource id="9" name="WoodenPlate" number="2"/>
+      <Resource id="2" name="Coal" number="5"/>
+    </Recipe>
+    
+    <Recipe id="4" name="IronPlate" number="1" isStructure="0" openingMode="0">
+      <Resource id="3" name="Iron" number="10"/><!--10-->
+      <Resource id="2" name="Coal" number="5"/><!--5-->
+    </Recipe>
+      
+    <Recipe id="6" name="Steel" number="1" isStructure="0" openingMode="0">
+      <Resource id="4" name="IronPlate" number="10"/><!--10-->
+      <Resource id="2" name="Coal" number="10"/><!--5-->
+    </Recipe>
+    
+    <Recipe id="9" name="WoodenPlate" number="4" isStructure="0" openingMode="0">
+      <Resource id="8" name="TreeTrunk" number="1"/>
+    </Recipe>
+  
+    <Recipe id="10" name="WoodenStick" number="4" isStructure="0" openingMode="0">
+      <Resource id="8" name="TreeTrunk" number="1"/>
+    </Recipe>
+
+    <Recipe id="11" name="Anvil" number="1" isStructure="1" openingMode="5">
+      <Resource id="6" name="Steel" number="6"/><!--6-->
+      <Resource id="9" name="WoodenPlate" number="8"/><!--8-->
+      <Resource id="5" name="Rope" number="16"/><!--4-->
+    </Recipe>
+    
+    <Recipe id="12" name="Box" number="1" isStructure="0" openingMode="0">
+      <Resource id="9" name="WoodenPlate" number="24"/><!--24-->
+      <Resource id="4" name="IronPlate" number="16"/><!--16-->
+    </Recipe>
+
+    <Recipe id="13" name="IronFurnace" number="1" isStructure="1" openingMode="4">
+      <Resource id="4" name="IronPlate" number="12"/><!--12-->
+      <Resource id="9" name="WoodenPlate" number="8"/><!--8-->
+      <Resource id="10" name="WoodenStick" number="4"/><!--4-->
+    </Recipe>
+    
+    <Recipe id="14" name="IronTable" number="1" isStructure="1" openingMode="2">
+      <Resource id="4" name="IronPlate" number="12"/><!--12-->
+      <Resource id="10" name="WoodenStick" number="8"/><!--8-->
+      <Resource id="6" name="Steel" number="6"/><!--6-->
+      <Resource id="5" name="Rope" number="16"/><!--8-->
+    </Recipe>
+    
+    <Recipe id="15" name="StoneFurnace" number="1" isStructure="1" openingMode="3">
+      <Resource id="7" name="Stone" number="20"/><!--30-->
+    </Recipe>
+    
+    <Recipe id="16" name="WoodTable" number="1" isStructure="1" openingMode="1">
+      <Resource id="9" name="WoodenPlate" number="12"/><!--12-->
+      <Resource id="10" name="WoodenStick" number="8"/><!--8-->
+      <Resource id="8" name="TreeTrunk" number="6"/><!--6-->
+      <Resource id="5" name="Rope" number="16"/><!--8-->
+    </Recipe>
+    
+   </Recipes>
+ </RecipeCollection>
